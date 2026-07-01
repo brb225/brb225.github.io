@@ -1,0 +1,46 @@
+---
+title: "Benjamin R. Baer"
+image: "baer-web.jpeg"
+links:
+  - label: Google Scholar
+    url: "https://scholar.google.com/citations?user=ECPfj-QAAAAJ"
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/benjamin-baer/"
+  - label: Email
+    url: "mailto:b.baer@bowdoin.edu"
+output:
+  postcards::trestles:
+    includes:
+      in_header: google-verify.html
+---
+
+## Bio
+
+Hi, my name is Ben. I am an Assistant Professor in the
+[Department of Mathematics](https://www.bowdoin.edu/math/index.html/)
+at Bowdoin College in Maine and an Honorary Lecturer in Statistics at the [University of St Andrews](https://stats.wp.st-andrews.ac.uk). 
+
+My research interests are broadly in applied/methodological statistics, with a particular focus on missing data problems such as causal inference, survival analysis, and ecological survey methods, as well as efficient estimation. 
+I especially enjoy developing statistical methods that are motivated by scientific questions and tailored to real applications.
+
+## Education
+
+**Cornell University** | Ithaca, NY  
+Ph.D. in Statistics | September 2015 - August 2021  
+Supervised by [Marty Wells](https://stat.cornell.edu/people/faculty/martin-wells)
+
+**Millersville University** | Millersville, PA  
+B.S. in Mathematics | September 2011 - May 2015  
+Supervised by [James Fenwick](https://www.millersville.edu/math/faculty/)
+
+## Experience
+
+**Bowdoin College** | Assistant Professor | July 2026 - Present
+
+**University of St Andrews** | Lecturer (Assistant Professor) | August 2023 - June 2026
+
+**University of Rochester** | Postdoctoral Fellow | August 2021 - July 2023
+
+**Weill Cornell Medicine** | Research Data Scientist | April 2020 - August 2021
+
+**Amazon** | Applied Scientist | May 2019 - August 2019
