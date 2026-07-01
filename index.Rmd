@@ -18,7 +18,8 @@ output:
 
 Hi, my name is Ben. I am an Assistant Professor in the
 [Department of Mathematics](https://www.bowdoin.edu/math/index.html/)
-at Bowdoin College in Maine and an Honorary Lecturer in Statistics at the [University of St Andrews](https://stats.wp.st-andrews.ac.uk). 
+at Bowdoin College in Maine and an Honorary Lecturer in Statistics at the [University of St Andrews](https://stats.wp.st-andrews.ac.uk)
+in Scotland.  
 
 My research interests are broadly in applied/methodological statistics, with a particular focus on missing data problems such as causal inference, survival analysis, and ecological survey methods, as well as efficient estimation. 
 I especially enjoy developing statistical methods that are motivated by scientific questions and tailored to real applications.
