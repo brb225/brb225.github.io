@@ -17,31 +17,30 @@ output:
 ## Bio
 
 Hi, my name is Ben. I am an Assistant Professor in the
-[Department of Mathematics](https://www.bowdoin.edu/math/index.html/)
-at Bowdoin College in Maine and an Honorary Lecturer in Statistics at the [University of St Andrews](https://stats.wp.st-andrews.ac.uk)
+Department of Mathematics at [Bowdoin College](https://www.bowdoin.edu/math/index.html/) in Maine and an Honorary Lecturer in Statistics at the [University of St Andrews](https://stats.wp.st-andrews.ac.uk)
 in Scotland.  
 
-My research interests are broadly in applied/methodological statistics, with a particular focus on missing data problems such as causal inference, survival analysis, and ecological survey methods, as well as efficient estimation. 
-I especially enjoy developing statistical methods that are motivated by scientific questions and tailored to real applications.
+My research interests are broadly in applied/methodological statistics, with a particular focus on incomplete data problems such as causal inference, survival analysis, and ecological survey methods, as well as efficient estimation.
+Much of my work involves developing statistical methods tailored to the scientific questions that motivate them.
 
 ## Education
 
 **Cornell University** | Ithaca, NY  
-Ph.D. in Statistics | September 2015 - August 2021  
+Ph.D. and M.S. in Statistics | September 2015 – August 2021  
 Supervised by [Marty Wells](https://stat.cornell.edu/people/faculty/martin-wells)
 
 **Millersville University** | Millersville, PA  
-B.S. in Mathematics | September 2011 - May 2015  
+B.S. in Mathematics | September 2011 – May 2015  
 Advised by [James Fenwick](https://www.millersville.edu/math/faculty/) and [Zhigang Han](https://www.millersville.edu/math/faculty/)
 
 ## Experience
 
-**Bowdoin College** | Assistant Professor | July 2026 - Present
+**Bowdoin College** | Assistant Professor | July 2026 – Present
 
-**University of St Andrews** | Lecturer (Assistant Professor) | August 2023 - June 2026
+**University of St Andrews** | Lecturer (Assistant Professor) | August 2023 – June 2026
 
-**University of Rochester** | Postdoctoral Fellow | August 2021 - July 2023
+**University of Rochester** | Postdoctoral Fellow | August 2021 – July 2023
 
-**Weill Cornell Medicine** | Research Data Scientist | April 2020 - August 2021
+**Weill Cornell Medicine** | Research Data Scientist | April 2020 – August 2021
 
-**Amazon** | Applied Scientist | May 2019 - August 2019
+**Amazon** | Applied Scientist | May 2019 – August 2019
